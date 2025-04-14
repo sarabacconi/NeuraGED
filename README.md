@@ -139,7 +139,9 @@ All important parameters such as:
 
 ## 📄 License
 
-MIT License. Feel free to reuse and modify this code for your own research or application.
+Feel free to reuse and modify this code for your own research or application. If you find this project useful in your work, please consider citing it as:
+
+Bacconi, S., Costanti, F., Bianchini, M., Pancino, N., & Bongini, P. (2024). NeuraGED: A GNN estimation for Graph–Edit Distance. Procedia Computer Science, 246, 4186-4193.
 
 ---
 
